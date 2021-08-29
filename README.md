@@ -9,4 +9,5 @@ I am a Node.js developer, I am learning languages like Python, HTML, CSS, I woul
 My Socials / Mis redes sociales:
 
 Twitch: https://www.twitch.tv/acoss1x
+
 Twitter: https://twitter.com/Acoss1x
