@@ -7,9 +7,9 @@ I am a Node.js developer, I am learning languages like Python, HTML, CSS, I woul
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # My profile stats:
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=xAcoss&show_icons=true&theme=dark)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Acoss1x&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xAcoss&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Acoss1x&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # My Socials / Mis redes sociales:
 
