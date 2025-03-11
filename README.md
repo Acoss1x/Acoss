@@ -1,8 +1,8 @@
 # Acoss
 
-Soy un desarrollador de Node.js, estoy aprendiendo lenguajes como Python, HTML, CSS, me gustaría en un futuro colabrar en grandes proyectos, y aprender bastantes lenguajes para hacer mis propias aplicaciones y proyectos.
+Soy un desarrollador de Node.js, estoy aprendiendo lenguajes como Python, Java, me gustaría en un futuro colabrar en grandes proyectos, y aprender bastantes lenguajes para hacer mis propias aplicaciones y proyectos.
 
-I am a Node.js developer, I am learning languages like Python, HTML, CSS, I would like in the future to collaborate in big projects, and learn enough languages to make my own applications and projects.
+I am a Node.js developer, I am learning languages like Python, Java, I would like in the future to collaborate in big projects, and learn enough languages to make my own applications and projects.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # My profile stats:
